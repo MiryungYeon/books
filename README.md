@@ -7,6 +7,8 @@
 | <img src="/images/밝은밤.PNG" width="250" height="350"/> | <img src="/images/시선으로부터.PNG" width="250" height="350"/>  | <img src="/images/쉬운천국.PNG" width="250" height="350"/>  |
 | <img src="/images/아가미.PNG" width="250" height="350"/> | <img src="/images/파과.PNG" width="250" height="350"/>  | <img src="/images/파쇄.PNG" width="250" height="350"/>  |
 | <img src="/images/우정도둑.PNG" width="250" height="350"/> | <img src="/images/채식주의자.PNG" width="250" height="350"/>  | <img src="/images/파친코.PNG" width="250" height="350"/>  |
+| <img src="/images/슬픔이택배로왔다.PNG" width="250" height="350"/> | <img src="/images/어떤물질의사랑.PNG" width="250" height="350"/>  | <img src="/images/세계의호수.PNG" width="250" height="350"/>  |
+| <img src="/images/호밀밭의파수꾼.PNG" width="250" height="350"/> |   |   |
 
 # favorite author 📌
 ##### 최진영
@@ -14,6 +16,5 @@
 ##### 유지혜
 
 # wish 🏷
-##### 세계의 호수
-##### 호밀밭의 파수꾼
-##### 어떤 물질의 사랑
+##### 데미안
+##### 도시와그불확실한벽
